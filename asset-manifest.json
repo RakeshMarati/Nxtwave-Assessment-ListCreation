@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nxtwave-assessment-ListCreation/static/css/main.ceb378b5.css",
+    "main.js": "/Nxtwave-assessment-ListCreation/static/js/main.2d3e4483.js",
+    "static/js/488.e4285260.chunk.js": "/Nxtwave-assessment-ListCreation/static/js/488.e4285260.chunk.js",
+    "index.html": "/Nxtwave-assessment-ListCreation/index.html",
+    "main.ceb378b5.css.map": "/Nxtwave-assessment-ListCreation/static/css/main.ceb378b5.css.map",
+    "main.2d3e4483.js.map": "/Nxtwave-assessment-ListCreation/static/js/main.2d3e4483.js.map",
+    "488.e4285260.chunk.js.map": "/Nxtwave-assessment-ListCreation/static/js/488.e4285260.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb378b5.css",
+    "static/js/main.2d3e4483.js"
+  ]
+}
